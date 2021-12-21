@@ -12,6 +12,8 @@ hist(mtcars$hp,
      main = 'title of the histogram',
      xlab = 'Range of values')
 
+
+library(ggplot2)
 #histogram with ggplot
 ggplot(data = mtcars,
        mapping = aes(x = hp)) +
@@ -28,5 +30,6 @@ ggplot(data = mtcars,
        fill = 'vs_motor',
        x = 'HP [unit]',
        y = 'frecuency',
-       subtitle = 'sub',
+       subtitle = 'subtitutlo',
        caption = 'this is the caption')
+
