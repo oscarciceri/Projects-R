@@ -1,9 +1,9 @@
 #Matrix
 
 #Create vectors
-warner <- c(10,20,30,40,50,60,70,80,90)
-disney <- c(11,21,31,41,51,61,71,81,91)
-fox <-    c(12,22,32,42,52,62,72,82,92)
+fox <- c(13,23,33,43,53,63,73,83,93)
+warner <- c(11,21,31,41,51,61,71,81,91)
+disney <-    c(12,22,32,42,52,62,72,82,92)
 
 #create matrix
 films <- matrix(c(warner,disney,fox), nrow = 9, ncol = 3)
@@ -30,7 +30,9 @@ films['2011', 'warner']
 
 films[c(1,3), c(2,3)]
 
-films[c(1,5), c('warner', 'disney')]
+films[c(5,1), c(1,3)]
+
+films[c(1,5,6,8), c('warner', 'disney')]
 
 films[2,]
 films['2012',]
