@@ -94,8 +94,6 @@ ggplot(data = viajes_diarios,
 
 
 
-
-
 # procesamiento de datos
 viajes_diarios <- raw_data %>% 
   mutate(fecha_hora = dmy_hms(paste(Fecha_Retiro, Hora_Retiro))) %>% 
@@ -126,3 +124,22 @@ ggplot(data = viajes_diarios,
   ylim(-551.5396, 4103.783) +
   labs(title = 'Realidad')
 
+conteo_ts <- ts(viajes_hora$conteo,
+                start = 1,
+                frequency = 24)
+viajes_hora$conteo
+conteo_ts
+# haciendo modelo ARIMA
+# install.packages('forecast')
+
+
+ajuste <- auto.arima(y = conteo_ts)
+
+summary(ajuste)
+
+predicciones <- forecast(ajuste)
+min(predicciones[['lower']])
+max(predicciones[['upper']])
+
+p_predict <- autoplot(predicciones)
+p_predict
