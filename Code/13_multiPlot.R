@@ -11,11 +11,12 @@ ggplot(data = iris,
                      y = Sepal.Width,
                      color = Species)) +
   geom_point() +
-  geom_smooth(method = 'lm')
+  geom_smooth(method = 'loess') #"lm", "glm", "gam", "loess"
 
 
 #Example 2
 aux <- iris$Species ==  'setosa'
+aux
 len <- sum(aux, na.rm = TRUE)
 len
 ggplot(data = iris[iris$Species == 'setosa',],

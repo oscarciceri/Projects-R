@@ -19,8 +19,8 @@ ggplot(data = gapminder,
        mapping = aes(x = continent,
                      y = lifeExp,
                      fill = continent)) +
-  geom_boxplot() 
-  #+ geom_jitter()
+  geom_boxplot() #+
+  #geom_jitter()
  
   
 ggplot(data = gapminder,
@@ -30,7 +30,7 @@ ggplot(data = gapminder,
   geom_violin() 
 
 data <- data.frame(gapminder$lifeExp, 
-                   gapminder$continent,
+                  # gapminder$continent,
                    gapminder$gdpPercap)
 pairs(data)  
 

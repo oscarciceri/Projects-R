@@ -4,8 +4,8 @@ data("mtcars")
 barplot(mtcars$cyl)
 
 #Group the data
-table(mtcars$cyl)
-
+test <- table(mtcars$cyl)
+test
 
 barplot(table(mtcars$cyl))
 
