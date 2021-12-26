@@ -4,7 +4,7 @@ library(readxl)
 #Search the file
 file.choose()
 
-pwd <- "C:\\Users\\oscar\\Documents\\Git\\Rprojects\\data.xlsx"
+pwd <- "C:\\Users\\oscar\\Documents\\Git\\Rprojects\\data_xlsx\\data.xlsx"
 
 
 #See the leaf excel

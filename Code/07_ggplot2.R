@@ -25,7 +25,7 @@ barplot(disney,
 hist(disney)
 
 
-total <- sum(disney)c
+total <- sum(disney)
 percentage <- disney/total
 percentage
 percentage <- round(percentage, 3)
