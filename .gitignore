@@ -37,3 +37,7 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+
+#csv trace of ecobici cdmx
+data_csv/ecobici_cdmx.csv
