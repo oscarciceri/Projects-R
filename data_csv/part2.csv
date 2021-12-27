@@ -1,0 +1,160 @@
+"ID","DEAL_DATE","COMMODITY","SOURCE_LOCATION","DELIVERY_LOCATION","DELIVERY_MONTH","DELIVERY_YEAR","VOLUME","PRICE"
+4,2021-05-10,"Coal","South Africa","ANT","JUN",2021,10,96.32
+9,2021-05-10,"Coal","South Africa","ANT","MAY",2021,250,93.29
+10,2021-05-10,"Coal","South Africa","AMS","JUN",2021,100,93.22
+18,2021-05-10,"Coal","South Africa","ARA","MAY",2021,100,94.12
+24,2021-05-10,"Coal","South Africa","AMS","MAY",2021,25,94.57
+26,2021-05-10,"Coal","South Africa","ANT","JUN",2021,50,10.79
+33,2021-05-10,"Coal","South Africa","ANT","MAY",2021,100,93.78
+35,2021-05-10,"Coal","South Africa","ROT","JUN",2021,50,96.02
+39,2021-05-10,"Coal","South Africa","ANT","JUN",2021,110,98.8
+40,2021-05-10,"Coal","South Africa","AMS","JUL",2021,10,99.49
+44,2021-05-10,"Coal","South Africa","ARA","OCT",2021,250,94.56
+47,2021-05-11,"Coal","South Africa","SOT","MAY",2021,20,97.77
+49,2021-05-11,"Coal","South Africa","ARA","JUL",2021,50,99.2
+51,2021-05-11,"Coal","South Africa","ANT","JUN",2021,50,98.42
+53,2021-05-11,"Coal","South Africa","ANT","JUN",2021,100,94.12
+54,2021-05-11,"Coal","South Africa","ANT","JUL",2021,1000,99.97
+56,2021-05-11,"Coal","South Africa","UK","MAY",2021,40,10.37
+57,2021-05-11,"Coal","South Africa","ARA","JUN",2021,100,97.37
+68,2021-05-12,"Coal","South Africa","AMS","JUN",2021,100,10.37
+69,2021-05-12,"Coal","South Africa","ANT","JUN",2021,50,97.22
+70,2021-05-12,"Coal","South Africa","ANT","JUL",2021,500,94.31
+72,2021-05-12,"Coal","South Africa","ANT","JUL",2021,40,10.4
+74,2021-05-12,"Coal","South Africa","UK","OCT",2021,100,93.27
+79,2021-05-12,"Coal","South Africa","ARA","MAY",2021,250,96.55
+84,2021-05-12,"Coal","South Africa","UK","JUN",2021,200,97.77
+85,2021-05-12,"Coal","South Africa","AMS","JUN",2021,50,99.2
+87,2021-05-12,"Coal","South Africa","ARA","JUN",2021,150,95.31
+90,2021-05-12,"Coal","South Africa","UK","MAY",2021,50,97.42
+91,2021-05-12,"Coal","South Africa","UK","OCT",2021,100,97.89
+94,2021-05-12,"Coal","South Africa","AMS","JUL",2021,10,96.32
+103,2021-05-13,"Coal","South Africa","ANT","JUN",2021,40,94.12
+111,2021-05-13,"Coal","South Africa","UK","JUN",2021,25,91.76
+113,2021-05-13,"Coal","South Africa","AMS","JUN",2021,100,96.95
+117,2021-05-13,"Coal","South Africa","AMS","JAN",2022,75,10.24
+120,2021-05-13,"Coal","South Africa","ARA","JUN",2021,200,98.25
+122,2021-05-13,"Coal","South Africa","ROT","JUN",2021,100,97.89
+123,2021-05-13,"Coal","South Africa","ARA","MAY",2021,100,95.31
+126,2021-05-14,"Coal","South Africa","AMS","JUN",2021,120,93.35
+129,2021-05-14,"Coal","South Africa","ARA","AUG",2021,25,94.46
+138,2021-05-14,"Coal","South Africa","AMS","MAY",2021,200,90.97
+139,2021-05-14,"Coal","South Africa","ANT","JUN",2021,25,93.56
+144,2021-05-14,"Coal","South Africa","AMS","JUL",2021,50,97.22
+145,2021-05-14,"Coal","South Africa","UK","SEP",2021,250,94.56
+152,2021-05-14,"Coal","South Africa","ANT","JUN",2021,100,90.97
+153,2021-05-14,"Coal","South Africa","ARA","JUL",2021,100,94.46
+156,2021-05-14,"Coal","South Africa","ROT","JUN",2021,100,94.31
+158,2021-05-14,"Coal","South Africa","ANT","MAY",2021,100,94.56
+159,2021-05-14,"Coal","South Africa","ARA","JUL",2021,100,96.02
+1,2021-05-10,"Coal","Australia","AMS","JUL",2021,200,91.75
+2,2021-05-10,"Coal","Australia","SOT","JUN",2021,100,93.49
+3,2021-05-10,"Coal","Australia","ANT","JUL",2021,25,93.04
+5,2021-05-10,"Coal","Australia","ANT","MAY",2021,100,93.49
+6,2021-05-10,"Coal","Australia","ANT","SEP",2021,50,93.78
+8,2021-05-10,"Coal","Australia","ARA","MAY",2021,200,90.56
+11,2021-05-10,"Coal","Australia","ARA","MAR",2022,100,99.2
+14,2021-05-10,"Coal","Australia","ROT","JUN",2021,25,93.78
+16,2021-05-10,"Coal","Australia","ROT","JUN",2021,50,95.31
+19,2021-05-10,"Coal","Australia","ANT","DEC",2021,100,99.98
+20,2021-05-10,"Coal","Australia","ROT","MAY",2021,10,94.5
+21,2021-05-10,"Coal","Australia","AMS","JUL",2021,10,93.22
+23,2021-05-10,"Coal","Australia","ANT","JUN",2021,40,96.32
+27,2021-05-10,"Coal","Australia","ARA","MAY",2021,100,92.66
+28,2021-05-10,"Coal","Australia","ROT","OCT",2021,200,94.17
+29,2021-05-10,"Coal","Australia","ANT","JUL",2021,25,94.46
+30,2021-05-10,"Coal","Australia","UK","AUG",2021,200,90.28
+31,2021-05-10,"Coal","Australia","ARA","DEC",2021,110,96.02
+34,2021-05-10,"Coal","Australia","AMS","JUN",2021,20,98.45
+37,2021-05-10,"Coal","Australia","AMS","JUN",2021,100,93.35
+38,2021-05-10,"Coal","Australia","AMS","JUN",2021,50,96.71
+41,2021-05-10,"Coal","Australia","AMS","JUN",2021,100,10.37
+42,2021-05-10,"Coal","Australia","AMS","SEP",2021,100,96.95
+45,2021-05-11,"Coal","Australia","ROT","MAY",2021,100,90.28
+46,2021-05-11,"Coal","Australia","ANT","JUN",2021,50,90.28
+48,2021-05-11,"Coal","Australia","ARA","JUN",2021,100,94.17
+50,2021-05-11,"Coal","Australia","AMS","AUG",2021,100,98.45
+55,2021-05-11,"Coal","Australia","ANT","MAY",2021,100,94.57
+59,2021-05-11,"Coal","Australia","ANT","JUL",2021,50,93.27
+60,2021-05-11,"Coal","Australia","ARA","JUN",2021,90,96.55
+61,2021-05-11,"Coal","Australia","AMS","JUN",2021,100,99.85
+64,2021-05-11,"Coal","Australia","ARA","MAY",2021,100,99.85
+65,2021-05-11,"Coal","Australia","ARA","JUL",2021,100,99.98
+66,2021-05-11,"Coal","Australia","UK","MAR",2021,100,98.45
+67,2021-05-11,"Coal","Australia","AMS","JUN",2021,90,99.49
+77,2021-05-12,"Coal","Australia","ANT","JUN",2021,100,93.49
+80,2021-05-12,"Coal","Australia","ANT","JUN",2021,100,10.24
+81,2021-05-12,"Coal","Australia","ANT","DEC",2021,100,93.29
+82,2021-05-12,"Coal","Australia","ANT","MAY",2021,100,10.79
+83,2021-05-12,"Coal","Australia","ANT","JUN",2021,20,94.57
+86,2021-05-12,"Coal","Australia","ANT","JUN",2021,100,99.85
+92,2021-05-12,"Coal","Australia","ROT","JUL",2021,200,90.56
+95,2021-05-12,"Coal","Australia","AMS","JUN",2021,100,97.26
+96,2021-05-12,"Coal","Australia","UK","JUL",2021,20,94.12
+97,2021-05-12,"Coal","Australia","ARA","JUN",2021,100,92.66
+98,2021-05-12,"Coal","Australia","AMS","JUN",2021,50,93.35
+99,2021-05-12,"Coal","Australia","AMS","JUN",2021,100,10.4
+100,2021-05-12,"Coal","Australia","SOT","JUN",2021,20,97.26
+107,2021-05-13,"Coal","Australia","ARA","MAY",2021,1000,93.56
+108,2021-05-13,"Coal","Australia","UK","AUG",2021,750,96.71
+112,2021-05-13,"Gas","Australia","ARA","MAY",2021,40,92.66
+115,2021-05-13,"Coal","Australia","ARA","JUL",2021,250,98.25
+116,2021-05-13,"Coal","Australia","ARA","JUN",2021,100,10.79
+118,2021-05-13,"Coal","Australia","ARA","MAY",2021,40,94.12
+124,2021-05-14,"Coal","Australia","UK","JUN",2021,10,98.65
+125,2021-05-14,"Coal","Australia","ROT","JUN",2021,50,96.95
+127,2021-05-14,"Coal","Australia","ANT","MAY",2021,50,93.29
+130,2021-05-14,"Coal","Australia","AMS","SEP",2021,200,91.75
+132,2021-05-14,"Coal","Australia","ARA","JUN",2021,100,94.5
+134,2021-05-14,"Coal","Australia","AMS","DEC",2021,25,91.75
+137,2021-05-14,"Coal","Australia","UK","JUN",2021,250,97.77
+141,2021-05-14,"Coal","Australia","ROT","JUN",2021,100,94.5
+142,2021-05-14,"Coal","Australia","ANT","JUN",2021,200,10.48
+143,2021-05-14,"Coal","Australia","ARA","JUL",2021,50,98.8
+147,2021-05-14,"Coal","Australia","ARA","JUN",2021,100,93.22
+148,2021-05-14,"Gas","Australia","ARA","JUN",2021,20,10.24
+150,2021-05-14,"Coal","Australia","ANT","JUL",2021,1000,93.56
+155,2021-05-14,"Coal","Australia","ANT","JUL",2021,750,98.42
+157,2021-05-14,"Coal","Australia","ARA","MAY",2021,50,94.31
+7,2021-05-10,"Coal","Columbia","AMS","JUN",2021,10,99.2
+12,2021-05-10,"Coal","Columbia","ARA","JUL",2021,50,97.42
+13,2021-05-10,"Coal","Columbia","AMS","JUL",2021,25,97.09
+15,2021-05-10,"Coal","Columbia","AMS","JUN",2021,100,98.65
+17,2021-05-10,"Coal","Columbia","ANT","OCT",2021,100,98.8
+22,2021-05-10,"Coal","Columbia","ARA","MAY",2021,1000,97.37
+25,2021-05-10,"Coal","Columbia","ANT","OCT",2021,100,10.48
+32,2021-05-10,"Coal","Columbia","ARA","MAY",2021,50,91.76
+36,2021-05-10,"Coal","Columbia","UK","JUL",2021,20,97.89
+43,2021-05-10,"Coal","Columbia","UK","JUN",2021,50,98.65
+52,2021-05-11,"Coal","Columbia","ANT","JUN",2021,20,93.27
+58,2021-05-11,"Coal","Columbia","ARA","JUN",2021,100,99.98
+62,2021-05-11,"Coal","Columbia","ANT","JUN",2021,100,97.37
+63,2021-05-11,"Coal","Columbia","UK","JUN",2021,50,93.04
+71,2021-05-12,"Coal","Columbia","ANT","MAY",2021,10,94.17
+73,2021-05-12,"Coal","Columbia","AMS","MAY",2021,50,10.4
+75,2021-05-12,"Coal","Columbia","ANT","JUL",2021,50,97.37
+76,2021-05-12,"Coal","Columbia","AMS","JUN",2021,100,99.49
+78,2021-05-12,"Coal","Columbia","ARA","AUG",2021,50,93.04
+88,2021-05-12,"Coal","Columbia","ANT","DEC",2021,100,98.25
+89,2021-05-12,"Coal","Columbia","AMS","JUN",2021,250,97.42
+93,2021-05-12,"Coal","Columbia","ANT","JUN",2021,20,96.55
+101,2021-05-12,"Coal","Columbia","ARA","JUN",2021,50,99.97
+102,2021-05-12,"Coal","Columbia","AMS","JUN",2021,110,90.97
+104,2021-05-13,"Coal","Columbia","AMS","JUL",2021,50,94.5
+105,2021-05-13,"Coal","Columbia","AMS","JUN",2021,100,90.56
+106,2021-05-13,"Coal","Columbia","AMS","JUN",2021,100,97.22
+109,2021-05-13,"Coal","Columbia","ARA","JUN",2021,100,97.09
+110,2021-05-13,"Coal","Columbia","ANT","JUN",2021,250,97.42
+114,2021-05-13,"Coal","Columbia","ARA","JUN",2021,110,97.09
+119,2021-05-13,"Coal","Columbia","AMS","JUL",2021,50,10.48
+121,2021-05-13,"Coal","Columbia","ARA","JUL",2021,500,91.76
+128,2021-05-14,"Gas","Columbia","ARA","JUN",2021,100,98.42
+131,2021-05-14,"Coal","Columbia","ARA","JUN",2021,50,97.26
+133,2021-05-14,"Coal","Columbia","AMS","AUG",2021,10,99.97
+135,2021-05-14,"Coal","Columbia","ARA","JUN",2021,90,96.71
+136,2021-05-14,"Coal","Columbia","AMS","MAR",2021,110,97.09
+140,2021-05-14,"Coal","Columbia","AMS","JUL",2021,10,94.17
+146,2021-05-14,"Coal","Columbia","ANT","SEP",2021,120,99.97
+149,2021-05-14,"Coal","Columbia","AMS","JUN",2021,90,96.71
+151,2021-05-14,"Coal","Columbia","ANT","SEP",2021,500,90.56
+154,2021-05-14,"Coal","Columbia","AMS","MAY",2021,100,10.79
